@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students_info>
+	<Name>Soyad Mohiful islam latu mia</Name>
+	<midName />
+	<father's_name>Sirajul Islam</father's_name>
+	<mother's_name>khatun</mother's_name>
+	<inRegisted>true</inRegisted>
+	<age>22</age>
+	<education>Diploma complete</education>
+</students_info>
+<students_info>
+	<Name>Forhad hossain hridoy latu mia</Name>
+	<midName />
+	<father's_name>Solaiman khan</father's_name>
+	<mother's_name>janina</mother's_name>
+	<inRegisted>true</inRegisted>
+	<age>21</age>
+	<education>Diploma complete</education>
+</students_info>
+<students_info>
+	<Name>Kazi Sufian latu mia</Name>
+	<midName />
+	<father's_name>Abu Sayed</father's_name>
+	<mother's_name>janina</mother's_name>
+	<age>25</age>
+	<inRegisted>true</inRegisted>
+	<education>Diploma complete</education>
+</students_info>
+<students_info>
+	<Name>Ajit Das latu mia</Name>
+	<midName />
+	<father's_name>rastar sobay naki or baba</father's_name>
+	<mother's_name>janina</mother's_name>
+	<age>21</age>
+	<inRegisted>true</inRegisted>
+	<education>Diploma complete</education>
+</students_info>
+<students_info>
+	<Name>Saiyed Mahmud latu mia</Name>
+	<midName />
+	<father's_name>ami janina</father's_name>
+	<mother's_name>janina</mother's_name>
+	<age>21</age>
+	<inRegisted>true</inRegisted>
+	<education>Diploma complete</education>
+</students_info>
+<students_result>
+	<Name>Soyad Mohiful islam latu mia</Name>
+	<midName />
+	<father's_name>Sirajul Islam</father's_name>
+	<mother's_name>khatun</mother's_name>
+	<inRegisted>true</inRegisted>
+	<age>22</age>
+	<education>Diploma complete</education>
+	<cgpa>3.99</cgpa>
+	<nextWork>
+		<intern>Kodeoo.ltd</intern>
+		<Bsc>Not Sure</Bsc>
+	</nextWork>
+	<nextWork>
+		<skill>WebDeveloper_with_Python</skill>
+		<framework>Django</framework>
+		<database>SQL</database>
+	</nextWork>
+</students_result>
+<students_result>
+	<Name>Forhad hossain hridoy latu mia</Name>
+	<midName />
+	<father's_name>Solaiman khan</father's_name>
+	<mother's_name>janina</mother's_name>
+	<inRegisted>true</inRegisted>
+	<age>21</age>
+	<education>Diploma complete</education>
+	<cgpa>3.98</cgpa>
+	<nextWork>
+		<intern>Twee Tach ltd</intern>
+		<Bsc>Not Sure</Bsc>
+	</nextWork>
+	<nextWork>
+		<skill>front end development</skill>
+		<framework>bootstrop</framework>
+		<framework>JavaScript</framework>
+		<framework>react</framework>
+	</nextWork>
+</students_result>
+<students_result>
+	<Name>Kazi Sufian latu mia</Name>
+	<midName />
+	<father's_name>Abu Sayed</father's_name>
+	<mother's_name>janina</mother's_name>
+	<age>25</age>
+	<inRegisted>true</inRegisted>
+	<education>Diploma complete</education>
+	<cgpa>3.98</cgpa>
+	<nextWork>
+		<intern>Kodeoo.ltd</intern>
+		<Bsc>Not Sure</Bsc>
+	</nextWork>
+	<nextWork>
+		<skill>WebDeveloper_with_Python</skill>
+		<framework>Django</framework>
+		<database>SQL</database>
+	</nextWork>
+</students_result>
+<students_result>
+	<Name>Ajit Das latu mia</Name>
+	<midName />
+	<father's_name>rastar sobay naki or baba</father's_name>
+	<mother's_name>janina</mother's_name>
+	<age>21</age>
+	<inRegisted>true</inRegisted>
+	<education>Diploma complete</education>
+	<cgpa>3.99</cgpa>
+	<nextWork>
+		<intern>Kodeoo.ltd</intern>
+		<Bsc>Not Sure</Bsc>
+	</nextWork>
+	<nextWork>
+		<skill>WebDeveloper_with_Python</skill>
+		<framework>Django</framework>
+		<database>SQL</database>
+	</nextWork>
+</students_result>
+<students_result>
+	<Name>Saiyed Mahmud latu mia</Name>
+	<midName />
+	<father's_name>ami janina</father's_name>
+	<mother's_name>janina</mother's_name>
+	<age>21</age>
+	<inRegisted>true</inRegisted>
+	<education>Diploma complete</education>
+	<cgpa>3.988</cgpa>
+	<nextWork>
+		<intern>Kodeoo.ltd</intern>
+		<Bsc>Not Sure</Bsc>
+	</nextWork>
+	<nextWork>
+		<skill>WebDeveloper_with_Python</skill>
+		<framework>Django</framework>
+		<database>SQL</database>
+	</nextWork>
+</students_result>
