@@ -1,2 +1,4 @@
-const data = require ("./fisrt.json");
+
+const data = require("./fisrt.json");
 console.log(data);
+
