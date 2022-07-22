@@ -1,5 +1,5 @@
 /*
-check japi and json data formatting
+check API and json data formatting
 */ 
 
 // CREATE javaScript object notation (JSON)
