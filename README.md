@@ -36,22 +36,39 @@ Example:
 ```
     [
       {
-          "userId": 1,
-          "id": 14,
-          "title": "repellendus sunt dolores architecto voluptatum",
-          "completed": true
+          "postId": 1,
+          "id": 1,
+          "name": "id labore ex et quam laborum",
+          "email": "Eliseo@gardner.biz",
+          "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi"
         },
         {
-          "userId": 1,
-          "id": 15,
-          "title": "ab voluptatum amet voluptas",
-          "completed": true
+          "postId": 1,
+          "id": 2,
+          "name": "quo vero reiciendis velit similique earum",
+          "email": "Jayne_Kuhic@sydney.com",
+          "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita"
         },
         {
-          "userId": 1,
-          "id": 16,
-          "title": "accusamus eos facilis sint et aut voluptatem",
-          "completed": true
+          "postId": 1,
+          "id": 3,
+          "name": "odio adipisci rerum aut animi",
+          "email": "Nikita@garfield.biz",
+          "body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis"
         },
+        {
+          "postId": 1,
+          "id": 4,
+          "name": "alias odio sit",
+          "email": "Lew@alysha.tv",
+          "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor"
+        },
+        {
+          "postId": 1,
+          "id": 5,
+          "name": "vero eaque aliquid doloribus et culpa",
+          "email": "Hayden@althea.biz",
+          "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
+        }
     ]
 ```
