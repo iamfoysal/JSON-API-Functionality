@@ -7,21 +7,21 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Api Appications</title>
 </head>
-<style>
-    li {
-        list-style: decimal;
-    }
-</style>
 <body>
+
     <h1>Api Check</h1>
-    <button onclick="info()">Hit ME For Github Status</button>
+    <button class="button" style="vertical-align:middle" onclick="info()"><span>Hit ME For Github Status</span></button>
     
-    <p id="gitstatus"></p>
-    
-    <button onclick="findUser()">Show User</button>
+    <button class="button" style="vertical-align:middle" onclick="findUser()"><span>Show Api Status</span></button>
 
-    <ul id="status"></ul>
+    <div id="githubStatus">
 
+    </div>
+
+    <div>
+        <ul id="status">
+        </ul>
+    </div>
 
     <!-- <script src="js/index.js"></script> -->
     <script src="js/fetchapi.js"></script>
