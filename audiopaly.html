@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+<button onclick="PlayAndStop()" type="button">click me for play</button>
+
+<audio id="my_audio" autoplay loop>
+    <source src='https://codepediacamp.000webhostapp.com/mp3/you-raise-me-up-josh-groban.mp3' type='audio/mpeg'>
+    <source src='https://codepediacamp.000webhostapp.com/mp3/you-raise-me-up-josh-groban.ogg' type="audio/ogg">
+</audio>
+
+<script>
+const audio = document.getElementById("my_audio");
+
+function PlayAndStop() { 
+    return audio.paused ? audio.play() : audio.pause();
+    
+    };
+</script> 
+
+</body>
+</html>
+
